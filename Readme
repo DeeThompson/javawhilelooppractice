@@ -1,0 +1,4 @@
+The while loop is a condition.
+Note that if the first part of what will eventually become an entire loop if it is 'false' then it will not  continue as a loop
+if it is 'true' it will continue as a loop. 
+*In a For loop it's just conditional on a specific end point, a while loop can be infinite.
